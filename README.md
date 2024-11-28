@@ -1,4 +1,4 @@
-# Web Login to the JFrog Platform
+# Web Login to the JFrog Platform 🐸
 Integrate the 'jf login' web login command behavior to your service or CLI using JFrog undocumented Access APIs.
 The web login command allows you to login to the JFrog platform through a web browser, making the process interactive and user-friendly.
 
